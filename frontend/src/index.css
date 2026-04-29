@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;700;900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #f4f4f0;
+  color: #000;
+}
+
+/* Brutalist Button Utility */
+.btn-brutal {
+  @apply border-4 border-black font-bold uppercase py-2 px-4 transition-transform active:translate-x-1 active:translate-y-1 active:shadow-none shadow-brutal;
+}
+.input-brutal {
+  @apply border-4 border-black p-3 font-bold focus:outline-none focus:bg-yellow-100 shadow-brutal-sm;
+}

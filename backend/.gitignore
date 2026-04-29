@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Environment Variables (CRITICAL)
+.env
+
+# User Uploads (Don't push user images to GitHub!)
+uploads/
+
+# OS/Editor Files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
