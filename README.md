@@ -1,4 +1,4 @@
-# 🏢 SIR MVIT Lost & Found
+# 🏢 SIR MVIT Lost & Found .
 
 A Full-Stack, real-time Lost and Found platform built for college students. Featuring a bold, Brutalist UI, secure JWT authentication, and live Socket.io chat for seamless communication between finders and owners.
 
@@ -15,13 +15,13 @@ A Full-Stack, real-time Lost and Found platform built for college students. Feat
 
 ## 🚀 How to Run Locally
 
-### 1. Clone the repository
+### 1. Clone the repository:
 \`\`\`bash
 git clone https://github.com/YOUR_USERNAME/lost-found.git
 cd lost-found
 \`\`\`
 
-### 2. Setup the Backend
+### 2. Setup the Backend:
 \`\`\`bash
 cd backend
 npm install
@@ -38,7 +38,7 @@ Start the backend server:
 node server.js
 \`\`\`
 
-### 3. Setup the Frontend
+### 3. Setup the Frontend:
 Open a new terminal and run:
 \`\`\`bash
 cd frontend
